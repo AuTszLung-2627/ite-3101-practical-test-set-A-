@@ -5,7 +5,7 @@ def main():
             print(x "is divisible by both 3 and 5")
         else:
             print(x "is not divisible by both 3 and 5")
-            Expect
+            Expectvalue:
             print("Please enter an integer.")
 
 if __name__ == "__main__":
