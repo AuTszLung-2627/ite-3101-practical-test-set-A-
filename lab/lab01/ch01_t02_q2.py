@@ -3,7 +3,7 @@ def main():
     h = int()
     def area (upper_length:float,lower_length:float) -> str:
         result = (upper_length + lower_length * h/2)
-print(area)
+        return result
 
 
 if __name__ == "__main__":
