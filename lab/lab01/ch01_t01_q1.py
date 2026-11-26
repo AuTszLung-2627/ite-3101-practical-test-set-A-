@@ -2,7 +2,8 @@ def main():
     # Replace pass with your Python code.
     try:
         x = int((input "please enter the number: "))
-        if x == x % 
+        if x == x % 3:
+            print()
 
 
 if __name__ == "__main__":
