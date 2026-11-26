@@ -5,7 +5,8 @@ def main():
             print(x "is divisible by both 3 and 5")
         else:
             print(x "is not divisible by both 3 and 5")
-            exceptvalue
+            exceptvalue:
+            
 
 if __name__ == "__main__":
     # execute only if run as a script
