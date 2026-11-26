@@ -1,6 +1,6 @@
 def main():
     # Replace pass with your Python code.
-    h = int
+    h = int()
     area = ((upper_length:float + lower_length:float)*h/2)
 print(area)
 
