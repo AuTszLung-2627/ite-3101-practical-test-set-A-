@@ -2,8 +2,8 @@ def get_number_sequence(n: int) -> str:
     result = ""
     # Add your Python code.
     for i in range():
-        result = i =+ 1
-        
+        result = i =+ 1:
+        break
         return result
     
 
