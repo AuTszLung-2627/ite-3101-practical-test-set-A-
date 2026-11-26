@@ -1,6 +1,7 @@
 def main():
     # Replace pass with your Python code.
-    for i in range
+    try:
+        please 
 
 
 if __name__ == "__main__":
