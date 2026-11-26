@@ -2,6 +2,7 @@ def main():
     # Replace pass with your Python code.
     try:
         x = int((input "please enter the number: "))
+        
 
 
 if __name__ == "__main__":
