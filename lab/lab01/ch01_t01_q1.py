@@ -1,6 +1,6 @@
 def main():
     # Replace pass with your Python code.
-        x = int(input ": ")
+        x = int(input "Type an inter: ")
         if x == x % 3 and x % 5:
             print(x "is divisible by both 3 and 5")
         else:
