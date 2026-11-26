@@ -4,8 +4,6 @@ def get_number_sequence(n: int) -> str:
     for i in range():
         result = i =+ 1
         break
-    
-
     return result
 
 
