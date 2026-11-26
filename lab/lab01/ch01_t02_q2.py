@@ -1,6 +1,6 @@
 def main():
     # Replace pass with your Python code.
-    area = ()
+    area = (upper_length:float)
 
 
 if __name__ == "__main__":
