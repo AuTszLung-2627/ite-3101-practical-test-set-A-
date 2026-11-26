@@ -1,7 +1,8 @@
 def main():
     # Replace pass with your Python code.
     h = int()
-    def area (upper_length:float,lower_length:float)
+    def area (upper_length:float,lower_length:float) -> str:
+        
 print(area)
 
 
