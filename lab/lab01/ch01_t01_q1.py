@@ -3,7 +3,7 @@ def main():
     try:
         x = int((input "please enter the number: "))
         if x == x % 3:
-            print(x is d)
+            print(x is dixisible by both 3 and )
 
 
 if __name__ == "__main__":
