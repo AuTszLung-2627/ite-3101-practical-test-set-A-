@@ -1,7 +1,7 @@
 def main():
     # Replace pass with your Python code.
     try:
-        please 
+        x = int(input)
 
 
 if __name__ == "__main__":
