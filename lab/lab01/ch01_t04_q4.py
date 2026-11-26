@@ -4,7 +4,7 @@ def is_right_angle(a: float, b: float, c: float) -> bool:
     if sides[0]**2 + sides[1]**2 == sides[2]**2:
     print(The triangle is a right-angle triangle)
 else:
-print(The triangle is not a right-angle triangle)
+    print(The triangle is not a right-angle triangle)
 
 
 def main():
